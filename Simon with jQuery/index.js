@@ -19,6 +19,6 @@ function playSound(buttonPressed) {
 $(".btn").click(function(){
     var userClickedButton = $(this).attr("id");
     buttonAlreadyClicked.push[userClickedButton];
-    buttonAnimation(userClickedButton);
+    buttonAnimation(this);
     playSound(userClickedButton);
 });
