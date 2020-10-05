@@ -1,6 +1,6 @@
 # Simon-game
 Simon with jQuery
-![Simon game](/sounds/display.png)
+> ![Simon game](/sounds/display.png)
 
 + Remember the good old Simon game that we had to play back in the mid-60s? No? Me neither.
 + The most challenging part was to get the game to evaluate user input and tally it against the game sequence. But here's how you do it.
